@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+    font-family:cursive !important;
+
+}
+header a{
+    color:yellow !important;
+    font: size 80px !important; ;
+    font-weight: 900;
+   
+}
+header img .with-border {
+    border: 4px solid white !important; /* Adjust the border width as needed */
+  }
+header{
+    margin-bottom: 100px;
+}
+  
